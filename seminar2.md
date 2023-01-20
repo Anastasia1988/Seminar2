@@ -8,6 +8,8 @@
 
 **git commit -m “message”** – создание коммита.
 
+**git commit -am “message”** - объединяет в себе две команды git add и git commit
+
 **git log** – вывод на экран истории всех коммитов с их хеш-кодами
 
 ![Семинар!](seminar_kartinka.jpg)
